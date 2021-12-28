@@ -9,3 +9,4 @@ social engineering:
  extra social engineering notes:
  
 ![social engineering pt 2](https://user-images.githubusercontent.com/77043377/147541573-92c2f7e6-8f7f-461e-b5d1-5a60c1a6e1a1.png)
+//I'm currently working on ILOVEYOU's summery
