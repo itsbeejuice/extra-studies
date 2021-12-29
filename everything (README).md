@@ -13,3 +13,7 @@ social engineering:
 ILOVEYOU:
 
 ![iloveyousummary](https://user-images.githubusercontent.com/77043377/147548556-7a961fa4-ff96-48d9-b1d4-e163af85409a.png)
+
+Stuxnet:
+
+![stuxnetsummery](https://user-images.githubusercontent.com/77043377/147618605-74bccd8b-b17d-4e99-ae75-f3e94818bde6.png)
