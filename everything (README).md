@@ -17,3 +17,6 @@ ILOVEYOU:
 Stuxnet:
 
 ![stuxnetsummery](https://user-images.githubusercontent.com/77043377/147618605-74bccd8b-b17d-4e99-ae75-f3e94818bde6.png)
+
+Adobe data breach:
+![adobs](https://user-images.githubusercontent.com/77043377/168956546-f38644e7-cef9-4d3c-a93d-3aec9c3e4080.png)
